@@ -26,10 +26,10 @@ export const DATA = {
     "Express.js",
     "GraphQL",
     "MongoDB",
-  "PostgreSQL",
+    "PostgreSQL",
     "Prisma",
     "AWS",
-      "Docker",
+    "Docker",
     "Git",
     "C++",
     "Hono",
@@ -124,6 +124,40 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Campus Reveal",
+      href: "https://www.campusreveal.com/",
+      dates: "Feb 2025 - Mar 2025",
+      active: true,
+      description:
+        "CampusReveal is a college-centric platform with 50+ users, offering verified placement data shared anonymously by students. Access real salary figures, company visits, and internship details—no manipulation, just facts.  ",
+      technologies: [
+        "Next.js",
+        "Typescript",
+        "PostgreSQL",
+        "Supabase",
+        "Zod",
+        "Recoil",
+        "Prisma",
+        "TailwindCSS",
+        "Next-Auth",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.campusreveal.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/sandeepyadav-24/collegeReveal",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/campusreveal.png",
+      video:
+        "#https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+    },
+    {
       title: "Explr - AI Trip Planner",
       href: "https://explore-self.vercel.app/",
       dates: "Jan 2024 - Feb 2024",
@@ -142,7 +176,6 @@ export const DATA = {
         "TailwindCSS",
         "Next-Auth",
         "Shadcn UI",
-      
       ],
       links: [
         {
