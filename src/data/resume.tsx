@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "Software Engineer. I love building things and helping people. Very active on Twitter.",
   summary:
-    "I am a full-stack developer skilled in [React, Node.js, Express.js, and MongoDB](#skills), with a strong focus on building scalable and efficient web applications. I also have experience in AI, Blockchain, and Web3 development. I have participated in [12+ hackathons across the country](/#hackathons), where I developed innovative projects and enjoyed collaborating in dynamic teams. Additionally, I completed an internship at [Triposaints](https://triposaints.com/), where I gained hands-on experience in building real-world applications and enhancing my technical skills.",
+    "I am a full-stack developer skilled in [React, Next.js, Node.js, Express.js, PostgreSQL and MongoDB](#skills), with a strong focus on building scalable and efficient web applications. I also have experience in building AI wrapper projects. I have participated in [12+ hackathons across the country](/#hackathons), where I developed innovative projects and enjoyed collaborating in dynamic teams. Additionally, I completed an internship at [Triposaints](https://triposaints.com/), where I gained hands-on experience in building real-world applications and enhancing my technical skills.",
   avatarUrl: "https://avatars.githubusercontent.com/u/103882286?v=4",
   skills: [
     "React",
