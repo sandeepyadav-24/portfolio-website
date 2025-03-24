@@ -14,6 +14,8 @@ export const DATA = {
   avatarUrl: "https://avatars.githubusercontent.com/u/103882286?v=4",
   skills: [
     "React",
+    "React-router",
+    "Tanstack",
     "Next.js",
     "Typescript",
     "Javascript",
@@ -22,11 +24,14 @@ export const DATA = {
     "TailwindCSS",
     "MongoDB",
   "PostgreSQL",
-  
+    "prisma"
+    "AWS",
     "GraphQL",
     "Recoil",
     "Redux",
     "C++",
+      "Python",
+      "Docker"
     "Git",
   ],
   navbar: [
