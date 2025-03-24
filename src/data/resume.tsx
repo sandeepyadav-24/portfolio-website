@@ -124,31 +124,35 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "AI Trip Planner",
+      title: "Explr - AI Trip Planner",
       href: "https://enchanting-nougat-de94c1.netlify.app",
       dates: "Jan 2024 - Feb 2024",
       active: true,
       description:
-        "Your personal travel curator creating custom itineraries tailored to your interests, style, and budget. Experience travel planning reimagined.",
+        "Explr is a powerful and intelligent travel planning platform that helps users create personalized itineraries effortlessly. With AI-powered recommendations, real-time budget estimation, and an intuitive dashboard, Explr ensures a seamless travel planning experience.",
       technologies: [
         "Next.js",
         "Typescript",
         "PostgreSQL",
+        "Node.js",
+        "Express.js",
+        "Zod",
+        "Zustand",
         "Prisma",
         "TailwindCSS",
-        "Stripe",
+        "Next-Auth",
         "Shadcn UI",
-        "Magic UI",
+      
       ],
       links: [
         {
           type: "Website",
-          href: "https://enchanting-nougat-de94c1.netlify.app",
+          href: "https://explore-self.vercel.app/",
           icon: <Icons.globe className="size-3" />,
         },
         {
           type: "Source",
-          href: "https://github.com/sandeepyadav-24/ai-planner",
+          href: "https://github.com/sandeepyadav-24/Explr",
           icon: <Icons.github className="size-3" />,
         },
       ],
