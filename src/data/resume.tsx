@@ -16,11 +16,16 @@ export const DATA = {
     "React",
     "Next.js",
     "Typescript",
+    "Javascript",
     "Node.js",
+    "Express.js"
     "TailwindCSS",
     "MongoDB",
+  "PostgreSQL",
+  
     "GraphQL",
     "Recoil",
+    "Redux",
     "C++",
     "Git",
   ],
@@ -87,7 +92,7 @@ export const DATA = {
     {
       school: "ITS Engineering College, Greater Noida",
       href: "https://itsengg.edu.in/",
-      degree: "Bachelor's Degree of Computer Science (BCS)",
+      degree: "Bachelor's Degree of Computer Science Engineering (CSE)",
       logoUrl:
         "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAMFBMVEVHcEyfHiOfHiOfHiOfHiOfHiOfHiOfHiOfHiOfHiOfHiOfHiOfHiOfHiOfHiOfHiNTxVaJAAAAD3RSTlMAfs2Z8iwdPhFu2F2Psb01OoZmAAAA7ElEQVQ4jbWTSYKEIAxFiSABg+b+t62ESRHL7k39DUpeZjXmR6LwYlxhYfZfjIF2znoE0DpuGoDV7SXuRQXwkI+DOQ1WZ7EFlDNuwO4CbCDeIR7lTQC5ImjWg9Q1nbUEBU5ntR5DtmBCdY3itUjBV16T6c0e9aEAPfhObTS5IQwFwNJFwnFAMr21AFotTHvYuAM257lrOQGZh3sFSIuPIIqE4QG4TkVEMzAuhXECtMzbbG+AjmZFpAi2LmsGmmK+70AP2OVbEQWQ5miO0AEPSWQH1e+hAhs/yvwBpL6sL0Dt23tv8gLuevsB/60PuE0Y7fXsSVQAAAAASUVORK5CYII=",
       start: "2021",
