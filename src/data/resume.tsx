@@ -24,14 +24,14 @@ export const DATA = {
     "TailwindCSS",
     "MongoDB",
   "PostgreSQL",
-    "prisma"
+    "prisma",
     "AWS",
     "GraphQL",
     "Recoil",
     "Redux",
     "C++",
       "Python",
-      "Docker"
+      "Docker",
     "Git",
   ],
   navbar: [
