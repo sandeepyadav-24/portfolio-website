@@ -89,10 +89,23 @@ export const DATA = {
       title: "Full Stack Developer Intern",
       logoUrl: "https://www.triposaints.com/jpeg%20logo.jpg",
       start: "July 2024",
-      end: "September 2024 ",
+      end: "August 2024 ",
       description:
         "Converted a website from Zoho to the MERN Stack by designing and implementing a scalable backend with Express.js and Node.js, optimizing features, and contributing valuable insights during team meetings.",
     },
+    {
+      company: "Top IT Expert",
+      href: "https://topitexpert.com",
+      badges: [],
+      location: "Noida",
+      title: "Full Stack Developer Intern",
+      logoUrl: "https://topitexpert.com/wp-content/uploads/2021/08/logo-png-1.png",
+      start: "September 2024",
+      end: "February 2025 ",
+      description:
+        "Worked on diverse projects like Lyrabot and Not Out 99, gaining hands-on experience in frontend, backend, and API integrations across multiple domains.",
+    },
+    
   ],
   education: [
     {
